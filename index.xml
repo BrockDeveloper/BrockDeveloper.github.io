@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I&#39;m Brock DEV</title>
-    <link>https://brockdeveloper.github.io/</link>
+    <link>https://brockdev.it/</link>
     <description>Recent content on I&#39;m Brock DEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Brock DEV</copyright><atom:link href="https://brockdeveloper.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Brock DEV</copyright><atom:link href="https://brockdev.it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://brockdeveloper.github.io/about/</link>
+      <link>https://brockdev.it/about/</link>
       <pubDate>Thu, 13 Feb 2020 18:33:00 +0000</pubDate>
       
-      <guid>https://brockdeveloper.github.io/about/</guid>
+      <guid>https://brockdev.it/about/</guid>
       <description>About me Hello, I&amp;rsquo;m Brock dev - thanks for stopping by! Nice to meet you 👋 Here&amp;rsquo;s a little bit about me.
 My life:
  I&amp;rsquo;m an IT science student 🧑‍🎓 I love programming 💻 Sometimes I run 🏃‍♂️ I read every day 📖  My skills are:
@@ -22,20 +22,20 @@ My life:
     
     <item>
       <title>About me</title>
-      <link>https://brockdeveloper.github.io/projects/</link>
+      <link>https://brockdev.it/projects/</link>
       <pubDate>Thu, 13 Feb 2020 18:33:00 +0000</pubDate>
       
-      <guid>https://brockdeveloper.github.io/projects/</guid>
+      <guid>https://brockdev.it/projects/</guid>
       <description>Projects These are all my projects. You can find all of them on my GitHub page. I share programs, source codes, projects in development. anything that can enrich open source.
 # JavaDrop Run your Java CLI programs with the drag-and-drop, without having to manually write the command to run it in the cmd GitHub Download</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://brockdeveloper.github.io/contact/</link>
+      <link>https://brockdev.it/contact/</link>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
       
-      <guid>https://brockdeveloper.github.io/contact/</guid>
+      <guid>https://brockdev.it/contact/</guid>
       <description>Contact Send me an email to: info@brockdev.it
 Visit my Github pages: BrockDeveloper
 Follow me on Twitter: _ABroccoletti_
